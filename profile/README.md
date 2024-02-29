@@ -1,3 +1,4 @@
-![image-logo](https://avatars.githubusercontent.com/u/161604797?s=400&u=2644c83289765958846d38aac5d6de28e35f6083&v=4)
-
-Welcome Omit Apps
+<div style="display:flex;justify-content:center;width:100%;background-color: #666;">
+  <img src="https://avatars.githubusercontent.com/u/161604797?s=400&u=2644c83289765958846d38aac5d6de28e35f6083&v=4" alt="logo" style="width:128px;height:128px" />
+  <h1>Welcome Omit Apps</h1>
+</div>
